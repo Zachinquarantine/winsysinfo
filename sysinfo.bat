@@ -26,4 +26,4 @@ ipconfig | findstr IPv6
 START https://support.microsoft.com/en-us/windows/windows-10-system-requirements-6d4e9a79-66bf-7950-467c-795cf0386715
 PAUSE
 
-Advanced batch file script
+:: Advanced batch file script
